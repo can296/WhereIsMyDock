@@ -1,0 +1,9 @@
+Package: com.cann66.whereismydock
+Name: WhereIsMyDock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: WTF! Where is my dock gone?
+Maintainer: Cann66
+Author: Cann66
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
